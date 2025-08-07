@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liu Dewei</h1>
 <h3 align="center">A Chinese undergraduate student majoring in Computer Science and Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-liudw&label=Profile%20views&color=0e75b6&style=flat" alt="david-liudw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-liudw" alt="david-liudw" /></a> </p>
 
